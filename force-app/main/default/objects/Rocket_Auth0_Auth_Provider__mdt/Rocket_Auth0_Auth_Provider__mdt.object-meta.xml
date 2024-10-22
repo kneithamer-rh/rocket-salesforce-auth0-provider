@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Stores configuration data for custom Rocket Auth0 auth providers A CMDT record will be generated for each auth provider created. The CMDT fields define the configuration fields for the auth providers.</description>
+    <label>Rocket Auth0 Auth Provider</label>
+    <pluralLabel>Rocket Auth0 Auth Providers</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>
